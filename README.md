@@ -1,13 +1,13 @@
 # openai
 
-## Example:
+### Example:
 ```
 $Env:OPENAI_API_KEY = 'xxxxx'
 python test.py
 python test_chinese.py
 ```
 
-## Result (test.py):
+### Result (test.py):
 ```
 ===== OpenAI Prompt =====
 
@@ -22,7 +22,7 @@ Human: Who is the highest scorer of all time in NBA history?
 AI: The highest scorer of all time in NBA history is Kareem Abdul-Jabbar, who scored 38,387 points during his career.
 ```
 
-## Result (test_chinese.py):
+### Result (test_chinese.py):
 ```
 Human: 寫一篇新詩，內容含有 "微軟"
 
@@ -65,7 +65,7 @@ AI:
 它彷彿在詠唱，
 ```
 
-## References:
+### References:
 
 1. https://vocus.cc/article/6393d4aafd89780001952fce
 2. https://platform.openai.com/docs/api-reference/chat?lang=python
