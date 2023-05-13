@@ -52,5 +52,6 @@ AI:
 
 References:
 
-https://vocus.cc/article/6393d4aafd89780001952fce
-https://platform.openai.com/docs/api-reference/chat?lang=python
+1. https://vocus.cc/article/6393d4aafd89780001952fce
+
+2. https://platform.openai.com/docs/api-reference/chat?lang=python
